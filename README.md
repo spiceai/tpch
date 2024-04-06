@@ -1,5 +1,5 @@
 # TPC Benchmark™ H (TPC-H)
-The [TPC Benchmark™ H (TPC-H)](https://docs.spice.ai/reference/sql-query-tables/tpc-h)) is widely used to evaluate the analytic query capabilities of databases.
+The [TPC Benchmark™ H (TPC-H)](https://docs.spice.ai/reference/sql-query-tables/tpc-h) is widely used to evaluate the analytic query capabilities of databases.
 
 ## Database Entities, Relationships, and Characteristics
 The components of TPC-H consist of eight separate and individual tables (the Base Tables). The relationships between columns in these tables are illustrated in the following ER diagram (source: [TPC Benchmark H Standard Specification]([url](http://www.tpc.org/tpc_documents_current_versions/pdf/tpc-h_v2.17.1.pdf))):
